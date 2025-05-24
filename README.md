@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# 💫  Hi, I’m **@HACKINTER**
+# 💫  Hi, I’m **@INTELEON404**
 <img align="center" alt="GIF" src="https://github.com/hackinter/Template/blob/main/code.gif?raw=true" width="500" height="320" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;I+am+a+Cybersecurity+Enthusiast!&color=39d609&fontSize=30)](https://git.io/typing-svg)
@@ -71,9 +71,9 @@
 # 📊 GitHub Stats:
 
 <p align="lift">
-  <img src="https://github-readme-stats.vercel.app/api?username=HACKINTER&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="HACKINTER Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HACKINTER&theme=highcontrast&hide_border=false" alt="HACKINTER Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKINTER&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="HACKINTER Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HACKINTER&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="INTELEON404 Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HACKINTER&theme=highcontrast&hide_border=false" alt="INTELEON404 Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKINTER&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="INTELEON404 Languages" />
 </p>
 
 
@@ -117,7 +117,7 @@
 ---
 
 ## 🚀 **About Me**
-Hello, I'm **@HACKINTER**, a passionate and dedicated **Cybersecurity Enthusiast** and **Ethical Hacker**. My primary goal is to contribute to the security community by developing open-source tools, conducting thorough bug hunting, and focusing on malware forensics and web security.
+Hello, I'm **@INTELEON404**, a passionate and dedicated **Cybersecurity Enthusiast** and **Ethical Hacker**. My primary goal is to contribute to the security community by developing open-source tools, conducting thorough bug hunting, and focusing on malware forensics and web security.
 
 - 🔥 Deeply passionate about **Cybersecurity**, with a strong focus on **Ethical Hacking** and **Penetration Testing**.
 - 🛠️ Constantly building and contributing to **open-source security tools** that help enhance online safety and privacy.
