@@ -72,8 +72,8 @@
 
 <p align="lift">
   <img src="https://github-readme-stats.vercel.app/api?username=HACKINTER&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="INTELEON404 Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HACKINTER&theme=highcontrast&hide_border=false" alt="INTELEON404 Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACKINTER&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="INTELEON404 Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INTELEON404&theme=highcontrast&hide_border=false" alt="INTELEON404 Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INTELEON404&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="INTELEON404 Languages" />
 </p>
 
 
