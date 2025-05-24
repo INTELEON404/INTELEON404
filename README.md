@@ -141,7 +141,7 @@ I am committed to building a **safer internet** where privacy and security are p
 
 
 ## 🧑‍💻 **Profile Visitors**
-![Visitor Count](https://profile-counter.glitch.me/hackinter/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/INTELEON404/count.svg)
 
 ---
 
@@ -154,5 +154,5 @@ I am committed to building a **safer internet** where privacy and security are p
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Updating+my+skills+and+knowledge;&color=39d609&fontSize=30)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackinter&theme=redical" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INTELEON404&theme=redical" alt="GitHub Activity Graph"/>
 </p>
