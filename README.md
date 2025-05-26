@@ -112,7 +112,7 @@
   <a href="mailto:ceh.ec.counselor147@gmail.com">
     <img alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
   </a>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3676483" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/INTELEON404.png" alt="Your Image Badge" />
 </p>
 
 
