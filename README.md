@@ -92,7 +92,7 @@
   <a href="https://twitter.com/_anonix_z">
     <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
   </a>
-  <a href="https://linkedin.com/in/no_acca">
+  <a href="https://linkedin.com/in/INTELEON404">
     <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a>
   <a href="https://github.com/hackinter">
