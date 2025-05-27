@@ -7,7 +7,7 @@
 # 💫  Hi, I’m **@INTELEON404**
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;I+am+a+Cybersecurity+Enthusiast!&color=39d609&fontSize=30)](https://git.io/typing-svg)
 ---
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Visit_Profile-red?logo=tryhackme)](https://tryhackme.com/p/INTELEON404)
+
 <img align="center" alt="GIF" src="https://github.com/hackinter/Template/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
