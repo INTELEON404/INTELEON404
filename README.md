@@ -123,6 +123,7 @@ Making the internet safer, one exploit at a time.
 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/INTELEON404"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="INTELEON404" /></a><a href="https://ko-fi.com/INTELEON404"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="INTELEON404" /></a></p><br><br>
+[![](https://visitcount.itsvg.in/api?id=lift&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## SUPPORT
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/INTELEON404) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/INTELEON404) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/INTELEON404) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/INTELEON404) 
