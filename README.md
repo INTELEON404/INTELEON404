@@ -109,7 +109,7 @@ Making the internet safer, one exploit at a time.
 > *"If it’s not broken, you’re not trying hard enough."*
 
 ---
-<div align="center">
+<div align="lift">
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=INTELEON404&theme=react&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=ffffff)
