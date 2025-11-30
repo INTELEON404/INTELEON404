@@ -142,6 +142,7 @@ I am committed to building a **safer internet** where privacy and security are p
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INTELEON404?cardType=github&theme=synthwave&preferLogin=true&Background=222222B6&Text=FFFFFF)](https://git.io/awesome-stats-card)
 
+
 ---
 
 <p align="center">
