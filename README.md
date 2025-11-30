@@ -114,7 +114,10 @@ Making the internet safer, one exploit at a time.
 <div align="lift">
 
 ## 📊 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=INTELEON404&theme=react&hide_border=true" alt="INTELEON404's GitHub Stats" />
+![INTELEON404's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=INTELEON404&theme=dark&chart=bars)
+![INTELEON404's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=INTELEON404&type=languages&theme=dark&chart=bars)
+![INTELEON404's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=INTELEON404&type=contributions&theme=dark)
+![INTELEON404's Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=INTELEON404&type=top-repos&theme=dark)
 
 
 > VISITORS
