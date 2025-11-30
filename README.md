@@ -114,11 +114,10 @@ Making the internet safer, one exploit at a time.
 <div align="lift">
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=INTELEON404&theme=react&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=ffffff)
-![](https://github-readme-streak-stats.herokuapp.com/?user=INTELEON404&theme=react&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=FF4500&currStreakLabel=39FF14)
+<img src="https://streak-stats.demolab.com?user=INTELEON404&theme=react&hide_border=true" alt="INTELEON404's GitHub Stats" />
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=INTELEON404&theme=react&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF)
 
+> VISITORS
 <img src="https://komarev.com/ghpvc/?username=INTELEON404&label=Profile+Views&color=red&style=for-the-badge"/>
 
 </div>
