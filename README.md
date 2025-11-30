@@ -1,4 +1,4 @@
-<div align="center">
+<div align="lift">
   <a href="https://www.youtube.com/@INTELEON404">
     <img src="https://github.com/LUXRAY404/temoos/blob/main/Linux.png" width="850"/>
   </a>
