@@ -139,8 +139,8 @@ I am committed to building a **safer internet** where privacy and security are p
 - 🔍 **Continuous Learning**: Staying updated with the latest trends and tools in cybersecurity and ethical hacking.
 
 
-## 🧑‍💻 **Profile Visitors**
-![Visitor Count](https://profile-counter.glitch.me/INTELEON404/count.svg)
+## 🧑‍💻 Profile Visitors
+<img src="https://komarev.com/ghpvc/?username=INTELEON404&label=Visitors&color=blue&style=for-the-badge" alt="INTELEON404 Visitor Count"/>
 
 ---
 
