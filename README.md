@@ -16,7 +16,7 @@
 I'm **[INTELEON404](https://www.youtube.com/@INTELEON404)** — Ethical Hacker & Security Researcher from **Bangladesh** 🇧🇩  
 On my way to becoming a full-fledged **Cybersecurity Specialist** and elite **Bug Hunter**.
 
-Technology has always been my playground. Malware, exploits, reverse engineering, forensics — I live for breaking things the right way so the digital world becomes safer.
+"Technology has always been my playground. From malware and exploits to reverse engineering and digital forensics — I thrive on breaking things ethically to make cyberspace stronger, smarter, and more secure."
 
 <details>
   <summary><b>More About Me</b></summary>
