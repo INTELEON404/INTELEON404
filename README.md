@@ -65,17 +65,6 @@
 </div>
 
 
-
-### 📊 GitHub Stats:
-
-<p align="lift">
-  <img src="https://github-readme-stats.vercel.app/api?username=INTELEON404&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="INTELEON404 Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INTELEON404&theme=highcontrast&hide_border=false" alt="INTELEON404 Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INTELEON404&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="INTELEON404 Languages"/>
-</p>
-
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=INTELEON404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -159,3 +148,5 @@ I am committed to building a **safer internet** where privacy and security are p
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=INTELEON404&theme=redical" alt="GitHub Activity Graph"/>
 </p>
+
+###
