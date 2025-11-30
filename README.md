@@ -4,6 +4,10 @@
   </a>
 </div>
 
+<div align="lift">
+
+<img src="https://github.com/LUXRAY404/temoos/blob/main/Linux.png" width="850"/>
+
 # 💫  Hi, I’m **@INTELEON404**
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;I+am+a+Cybersecurity+Enthusiast!&color=39d609&fontSize=30)](https://git.io/typing-svg)
 ---
