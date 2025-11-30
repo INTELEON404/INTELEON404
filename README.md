@@ -87,13 +87,13 @@ Technology has always been my playground. Malware, exploits, reverse engineering
 ---
 
 ## 🌱 Currently Grinding
-<div align="center">
+<div align="lift">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Advanced+Web+Exploits;Smart+Contract+Auditing;Malware+Reverse+Engineering;Mobile+App+Pentesting;Red+Team+Automation" alt="Currently Learning"/>
 </div>
 
 ---
 ## 📫 Find Me Around the Web
-<div align="center">
+<div align="lift">
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@INTELEON404)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inteleon404)
