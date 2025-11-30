@@ -140,8 +140,7 @@ I am committed to building a **safer internet** where privacy and security are p
 
 
 ## 🧑‍💻 Profile Visitors
-<img src="https://komarev.com/ghpvc/?username=INTELEON404&label=Profile+Views&color=0f0&style=plastic" alt="INTELEON404 Visitors"/>
-
+<img src="https://komarev.com/ghpvc/?username=INTELEON404&label=VIEWS&color=purple&style=for-the-badge" alt="INTELEON404 Visitors"/>
 ---
 
 ## ⚡ **Fun Fact**
