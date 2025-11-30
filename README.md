@@ -63,14 +63,8 @@
   </div>
 </div>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=INTELEON404&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=INTELEON404&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
 ## 📫 **How to Reach Me**
 <p align="center">
@@ -143,6 +137,12 @@ I am committed to building a **safer internet** where privacy and security are p
 
 ## 📈 **Journey to Cybersecurity Specialist**
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Updating+my+skills+and+knowledge;&color=39d609&fontSize=30)](https://git.io/typing-svg)
+
+---
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INTELEON404?cardType=github&theme=synthwave&preferLogin=true&Background=222222B6&Text=FFFFFF)](https://git.io/awesome-stats-card)
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=INTELEON404&theme=redical" alt="GitHub Activity Graph"/>
