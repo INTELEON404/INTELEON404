@@ -26,6 +26,7 @@ Technology has always been my playground. Malware, exploits, reverse engineering
 </details>
 
 <br>
+
 ---
 
 ## 🛠 Tech Arsenal
