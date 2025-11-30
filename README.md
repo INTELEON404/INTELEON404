@@ -63,7 +63,9 @@ Technology has always been my playground. Malware, exploits, reverse engineering
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
 </div>
+
 ---
+
 ## 🌱 Currently Grinding
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Advanced+Web+Exploits;Smart+Contract+Auditing;Malware+Reverse+Engineering;Mobile+App+Pentesting;Red+Team+Automation" alt="Currently Learning"/>
