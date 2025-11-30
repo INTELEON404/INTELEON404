@@ -19,16 +19,17 @@ On my way to becoming a full-fledged **Cybersecurity Specialist** and elite **Bu
 Technology has always been my playground. Malware, exploits, reverse engineering, forensics — I live for breaking things the right way so the digital world becomes safer.
 
 <details>
-  <summary><b>More about me</b></summary>
-  
-- **Name**: Sheikh Mohammad Adil  
-- **From**: Bangladesh  
-- **Roles**: Bug Hunter | Security Researcher | Forensics Expert  
-- Experienced in: Reverse Engineering, Malware Analysis, Cracking, Bug Hunting, Social Engineering, Red Teaming  
-- Currently mastering: Website Vulnerabilities, Mobile Pentesting, Web3 Security  
-- Learning: **literally everything in cybersecurity**  
-- Contact: **inteleon404@proton.me**
+  <summary><b>More About Me</b></summary>
+
+- *Name*: Sheikh Mohammad Adil  
+- *Location*: Bangladesh  
+- *Roles*: Penetration Tester | Ethical Hacker | Bug Bounty Hunter 
+- *Skilled in*:  Bug Hunting, Social Engineering, Red Teaming, Malware Analysis, Cracking 
+- *Focused on*: Web Vulnerabilities, Mobile App Pentesting, Web3 Security  
+- *Currently Learning*: Everything cybersecurity-related  
+- *Contact*: inteleon404@proton.me
 </details>
+ 
 
 <br>
 
