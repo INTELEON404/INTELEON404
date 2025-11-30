@@ -29,42 +29,40 @@
 ---
 
 
-## 🛠️ Tech Stack
+## 🛠️ Knowledge & Skills
 
-<h3 align="center">Tools & Technologies:</h3>
-<p align="center">
-  <a href="https://tryhackme.com/" target="_blank"><img src="https://assets.tryhackme.com/img/THMlogo.png" alt="tryhackme" width="40" height="40"/></a>
-  <a href="https://www.hackthebox.com/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/hack-the-box.svg" alt="hackthebox" width="40" height="40"/></a>
-  <a href="https://www.kali.org/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/SVG/kali-linux.svg" alt="kali-linux" width="40" height="40"/></a>
-  <a href="https://www.parrotsec.org/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/parrot-security.svg" alt="parrot-os" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/Windows10-11.svg" alt="Windows" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/Rust-.svg" alt="rust" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
-  <a href="https://www.perl.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/SVG/my-sql.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/SVG/aws.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google-cloud" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/hackinter/Template/blob/main/SVG/visual-studio-code.svg" alt="vscode" width="40" height="40"/></a>
-  <a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>
-</p>
+<br>
 
-
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
+      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
+      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&color=000000" alt="Flutter" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
+      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
+      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
+      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+  </div>
+</div>
 
 
 
