@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<div align="lift">
+<div align="cemter">
 
 <img src="https://github.com/LUXRAY404/temoos/blob/main/Linux.png" width="850"/>
 
