@@ -78,7 +78,7 @@ Making the internet safer, one exploit at a time.
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=INTELEON404&theme=react&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF)
 
-<img src="https://komarev.com/ghpvc/?username=INTELEON404&label=Profile+Views&color=39FF14&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=INTELEON404&label=Profile+Views&color=red&style=for-the-badge"/>
 
 </div>
 
