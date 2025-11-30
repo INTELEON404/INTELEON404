@@ -30,7 +30,7 @@ Technology has always been my playground. Malware, exploits, reverse engineering
 ---
 <h2 id="present_status"> Present Status </h2>
 
-<img width="25%" align="right" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="25%" align="right" src="https://github.com/hackinter/Template/blob/main/code.gif?raw=true">
 
 👉 Still learning **Bug Hunting & Malware Forensics**.  
 
