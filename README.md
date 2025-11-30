@@ -8,8 +8,29 @@
 
 <img src="https://github.com/LUXRAY404/temoos/blob/main/Linux.png" width="850"/>
 
-# 💫  Hi, I’m **@INTELEON404**
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;I+am+a+Cybersecurity+Enthusiast!&color=39d609&fontSize=30)](https://git.io/typing-svg)
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
+
+I'm **[INTELEON404](https://www.youtube.com/@INTELEON404)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialist** and **Bug Hunter**.<br>
+**Technology** has always fascinated me, and I've immersed myself in the captivating world of cybersecurity. Malware, Viruses, Bug hunting—I hope I will become a Cybersecurity Specialist, so I can protect company assets and help the community.
+
+<details>
+  <summary>More about me</summary>
+
+- **Name**: SHEIKH MOHAMMAD ADIL
+- **From**: BANGLADESH
+- **Bug Hunter** | **Security Researcher** | **Forensics Expert**
+- Experienced in cracking, reverse engineering, bug hunting, forensics, social engineering, and spy actions.
+- **Reverse Engineering**, **Malware Analysis**
+- Improving knowledge in **Website Vulnerabilities**
+- I’m currently learning **everything**
+- Reach me at **inteleon404@proton.me**
+
+</details>
+<br>
+
 ---
 
 ## 👀 **Interests**
