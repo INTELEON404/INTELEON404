@@ -94,7 +94,6 @@ Technology has always been my playground. Malware, exploits, reverse engineering
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Advanced+Web+Exploits;Smart+Contract+Auditing;Malware+Reverse+Engineering;Mobile+App+Pentesting;Red+Team+Automation" alt="Currently Learning"/>
 </div>
 
----
 ## 📫 Find Me Around the Web
 <div align="lift">
 
@@ -104,7 +103,6 @@ Technology has always been my playground. Malware, exploits, reverse engineering
 
 </div>
 
----
 ## 🚀 Mission
 **Hunt critical bugs • Analyze advanced threats • Build tools that protect millions**  
 Making the internet safer, one exploit at a time.
