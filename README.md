@@ -3,8 +3,10 @@
     <img src="https://github.com/LUXRAY404/temoos/blob/main/Linux.png" width="850"/>
   </a>
 
+  ---
+
   <h2 align="lift">
-    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+    HI there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
   </h2>
 </div>
 
