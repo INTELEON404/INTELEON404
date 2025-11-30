@@ -1,9 +1,9 @@
-<div align="lift">
+<div align="center">
   <a href="https://www.youtube.com/@INTELEON404">
     <img src="https://github.com/LUXRAY404/temoos/blob/main/Linux.png" width="850"/>
   </a>
 
-  <h2 align="center">
+  <h2 align="lift">
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
   </h2>
 </div>
