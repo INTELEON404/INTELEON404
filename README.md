@@ -137,5 +137,5 @@ Making the internet safer, one exploit at a time.
 ---
 
 <p align="center">
-  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
