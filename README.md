@@ -11,7 +11,7 @@
   </h2>
 </div>
 
-I'm **[INTELEON404](https://www.youtube.com/@INTELEON404)** — Ethical Hacker & Security Researcher from **Bangladesh** 🇧🇩  
+I'm **[INTELEON404](https://www.youtube.com/@INTELEON404)** — Ethical Hacker & Security Researcher
 On my way to becoming a full-fledged **Cybersecurity Specialist** and elite **Bug Hunter**.
 
 "Technology has always been my playground. From malware and exploits to reverse engineering and digital forensics — I thrive on breaking things ethically to make cyberspace stronger, smarter, and more secure."
@@ -20,7 +20,7 @@ On my way to becoming a full-fledged **Cybersecurity Specialist** and elite **Bu
   <summary><b>More About Me</b></summary>
 
 - *Name*: Sheikh Mohammad Adil  
-- *Location*: Bangladesh  
+- *Location*: Earth  
 - *Roles*: Penetration Tester | Ethical Hacker | Bug Bounty Hunter 
 - *Skilled in*:  Bug Hunting, Social Engineering, Red Teaming, Malware Analysis, Cracking 
 - *Focused on*: Web Vulnerabilities, Mobile App Pentesting, Web3 Security  
