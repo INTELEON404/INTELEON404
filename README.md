@@ -19,7 +19,7 @@ On my way to becoming a full-fledged **Cybersecurity Specialist** and elite **Bu
 <details>
   <summary><b>More About Me</b></summary>
 
-- *Name*: Sheikh Mohammad Adil  
+- *Name*: INTELEON404
 - *Location*: Earth  
 - *Roles*: Penetration Tester | Ethical Hacker | Bug Bounty Hunter 
 - *Skilled in*:  Bug Hunting, Social Engineering, Red Teaming, Malware Analysis, Cracking 
